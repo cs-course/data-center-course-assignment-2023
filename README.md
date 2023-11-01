@@ -4,16 +4,19 @@
 
 ## 作业内容及要求
 
-- **论文研讨** *40%*
-  - 制作胶片汇报一篇相关论文，**模拟学术会议**
-    - 第一次课内完成 Schedule，确认 12 个 Session Chair 和 48 篇 Paper
-    - 每位 Presenter 有 12 分钟汇报和 3 分钟讨论，由 Session Chair 严格组织并计时
-    - Session Chair 组织得力可加分
-- **综述报告** *60%*
+- **论文研讨** *30%*
+  - 制作胶片汇报一篇相关论文
+    - 第一次课内确认计划安排，43位同学每人选择1篇Paper准备汇报
+    - 每位同学有**15分钟汇报和3~5分钟讨论**
+      - 请严格守时（开PPT排练计时），可自备讲稿辅助（讲台没有分屏模式）
+- **综述报告** *40%*
   - 围绕自选研讨主题综述**不少于5篇近3年CCF-A/B类会议、期刊论文**
-    - 内容按**计算机学报样式**([Doc](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [LaTeX](http://cjc.ict.ac.cn/wltg/new/submit/LatexTemplet.zip))排版后上传仓库文件夹
-    - 打印纸质版（A4）
-- 电子版(**汇报胶片、综述报告**)向作业库提交，纸质版只需综述报告，双面打印交国光C523
+    - 内容按**计算机学报样式**([Doc](http://cjc.ict.ac.cn/wltg/new/submit/CJC-Templet_Word2003.doc), [LaTeX](http://cjc.ict.ac.cn/wltg/new/submit/LatexTemplet.zip))排版
+    - 研讨课中所提的问题和意见需要随文附上**附录：汇报记录**（所提问题，文中相应阐述）
+- **汇报胶片、综述报告**课程结束一周内(**2023-12-29**)提交作业库，有特殊情况补充说明可延期一周(**2024-01-05**)提交
+  - 作业库：<https://github.com/cs-course/data-center-course-assignment-2023>
+- **开卷考试** 30%
+  - 综合应用题x3(暂定**2023-12-30**)
 
 ## 如何提交
 
@@ -30,16 +33,12 @@
 
 参考：
 
-- 往届作业: <https://github.com/cs-course/data-center-course-assignment-2021>
+- 往届作业: <https://github.com/cs-course/data-center-course-assignment-2022>
 - git使用: [git-tutorial](https://github.com/cs-course/git-tutorial)
-
-### 纸质版
-
-按学院规定，作业需提交纸质版，双面打印装订进统一作业本，或按照其样式打印封面，内容为综述报告，交国光C523。
 
 ## 提交期限
 
-请于 **2024-01-12 17:00** 之前完成提交
+请于 **2023-12-29 17:00** 之前完成提交
 
 | 学号  | Presentation | Survey | **打印版** |
 | :--- | :---:   | :---:  | :---:      |
@@ -57,4 +56,4 @@
 
 ### Grace Days
 
-延期容忍 **1 week (2024-01-19)**
+延期容忍 **1 week (2024-01-05)**
